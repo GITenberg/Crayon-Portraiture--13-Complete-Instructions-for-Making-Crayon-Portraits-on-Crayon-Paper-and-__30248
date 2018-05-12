@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34462'
     url: http://www.gutenberg.org/2009/agents/34462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30248#Crayon-Portraiture--13-Complete-Instructions-for-Making-Crayon-Portraits-on-Crayon-Paper-and-_
 gutenberg_issued: '2009-10-13'
 gutenberg_type: Text
 identifiers:
